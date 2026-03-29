@@ -1,6 +1,6 @@
 # Joseph Seal
 # 03/29/2026
-# P3HW2_Salary
+# P3HW2_Salary_SealJoseph.py
 # This program calculates an employee's regular pay, overtime pay,
 # and gross pay based on hours worked and pay rate.
 
